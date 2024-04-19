@@ -9,7 +9,7 @@ import static org.mockito.Mockito.*;
 public class GT4500Test {
 
   private GT4500 ship;
-
+//HAHAHAHAXD
   @BeforeEach
   public void init(){
     this.ship = new GT4500();
